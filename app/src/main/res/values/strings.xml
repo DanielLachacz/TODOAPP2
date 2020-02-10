@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TODOAPP2</string>
+    <string name="name">Nazwa</string>
+    <string name="date">Data</string>
+    <string name="add_task">Dodaj zadanie</string>
+    <string name="cancel">Anuluj</string>
+    <string name="no_tasks">Brak zadań</string>
+    <string name="fields_are_empty">Pola data i nazwa nie mogą być puste</string>
+    <string name="task_added">Zadanie dodane!</string>
+    <string name="operation_failed">Operacja nie powiodła się!</string>
+    <string name="do_you_want_to_repeat">Czy chcesz powtórzyć?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+
+    <string-array name="categories">
+        <item>Praca</item>
+        <item>Zakupy</item>
+        <item>Inne</item>
+    </string-array>
+</resources>
